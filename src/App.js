@@ -4,6 +4,7 @@ import { Experience } from './components/Experience';
 import { Projects } from './components/Projects';
 import { Background } from './components/Background';
 import { Nav } from './components/Nav';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
 function App() {
