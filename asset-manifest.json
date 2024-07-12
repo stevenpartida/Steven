@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1bb09cab.css",
+    "main.js": "/static/js/main.9ed3abff.js",
+    "static/js/453.2c3a2ad5.chunk.js": "/static/js/453.2c3a2ad5.chunk.js",
+    "static/media/FranciscoRoofing.png": "/static/media/FranciscoRoofing.6eb2cf1efe636e3a8bea.png",
+    "static/media/WeatherApp.png": "/static/media/WeatherApp.942cbb11e8b8e6c2d2bd.png",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/TodoProject.png": "/static/media/TodoProject.cbf2ea5f5400e787c5ca.png",
+    "index.html": "/index.html",
+    "static/media/triangle-right-svgrepo-com.svg": "/static/media/triangle-right-svgrepo-com.8bd4d1253c9f3199ce75.svg",
+    "main.1bb09cab.css.map": "/static/css/main.1bb09cab.css.map",
+    "main.9ed3abff.js.map": "/static/js/main.9ed3abff.js.map",
+    "453.2c3a2ad5.chunk.js.map": "/static/js/453.2c3a2ad5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bb09cab.css",
+    "static/js/main.9ed3abff.js"
+  ]
+}
