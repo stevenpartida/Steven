@@ -258,6 +258,47 @@ body {
 .carousel-inner {
   border-radius: 20px;
   box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  margin-bottom: 2rem;
+}
+
+.carousel-caption {
+  background-color: rgba(78,159,229, .8);
+  border-radius: 1rem;
+  margin-bottom: 2rem;
+}
+
+.carousel-caption h3, p{
+  color: #FCFAF6;
+  font-weight: bold;
+}
+
+.carousel-indicators button {
+  background-color: #4E9FE5 !important;
+}
+
+.carousel-indicators > .active {
+  background-color: #FCFAF6 !important;
+}
+
+.projects-link-icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.projects-link-icons svg {
+  height: 2rem;
+  width: 2rem;
+  fill: #FCFAF6;
+}
+
+.project-grid {
+}
+
+.card {
+  background-color: #4E9FE5;
 }
 
 .experience-container {

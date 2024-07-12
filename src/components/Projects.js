@@ -3,6 +3,7 @@ import FadeIn from "react-fade-in/lib/FadeIn"
 import { OnScreen } from "./OnScreen"
 import { ProjectTypewriter } from "./ProjectTypeWriter"
 import { ProjectsCarousel } from "./ProjectsCarousel"
+import { ProjectsGrid } from "./PorjectsGrid"
 
 export const Projects = () => {
     const [ref, isVisible] = OnScreen();
